@@ -1,0 +1,50 @@
+a {
+  text-decoration: none;
+}
+.nav {
+  height: 100px;
+  background-color: #F0F0F0;
+  display: flex;
+}
+.left1 {
+  width: 80%;
+  display: flex;
+  padding-top: 30px;
+}
+.icon {
+  width: 100px;
+  height: 100px;
+}
+.icon img {
+  padding-left: 20px;
+  width: 52px;
+  height: 52px;
+}
+.leftLink {
+  display: flex;
+  padding-top: 15px;
+}
+.leftLink a {
+  padding-left: 30px;
+  font-size: 20px;
+  color: black;
+}
+.right {
+  width: 20%;
+  padding-top: 25px;
+}
+.login {
+  width: 92px;
+  height: 52px;
+  background-color: white;
+}
+.signUp {
+  width: 92px;
+  height: 52px;
+  margin-left: 20px;
+  background-color: black;
+  color: white;
+}
+.right button{
+    border: none;
+}
